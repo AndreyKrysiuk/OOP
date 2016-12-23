@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2016-11-19T09:50:46" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Boolean&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Integer&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP&quot; -  (Package)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Adept&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Adept::health&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Adept::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Adept::shield&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Attack&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Attack::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::energy&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Energy&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Inspire&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Singularity&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Singularity::enemies&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::SupportAction&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::SupportAction::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Talk&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Adept::Threaten&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Attack&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Attack::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Engineer&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Engineer::health&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Engineer::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Engineer::shield&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Overload&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::Overload::enemies&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::ReloadCrioAmmo&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::ReloadShields‎&lt;T‎&gt;&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::ReloadShields‎&lt;T‎&gt;::Ally&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::SupportAction&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::SupportAction::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::ThrowGranade&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Engineer::ThrowGranade::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Attack&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Attack::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::damage&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Damage&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::health&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Health&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Hero&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Hero::health&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Hero::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Hero::shield&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::isAlive&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::kill&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::kill::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::name&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Name&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::shield&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Hero::Shield&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::IHardAmmo&quot; -  (Interface)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::IHardAmmo::ReloadCrioAmmo&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::IHardAmmo::ReloadShields‎&lt;T‎&gt;&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::IHardAmmo::ReloadShields‎&lt;T‎&gt;::Ally&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::IHardAmmo::ThrowGranade&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::IHardAmmo::ThrowGranade::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::ISpeech&quot; -  (Interface)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::ISpeech::Inspire&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::ISpeech::Talk&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::ISpeech::Threaten&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::heal&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::heal::ally&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::Medic&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::Medic::health&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::Medic::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::Medic::shield&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::Singularity&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::Singularity::enemies&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::SupportAction&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Medic::SupportAction::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::MyException&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::MyException::healthValue&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::MyException::HealthValue&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::MyException::MyException&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::MyException::MyException::health&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::MyException::MyException::message&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Program&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Program::Main&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Program::Main::args&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Program::Program&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportEventArgs&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportEventArgs::enemy&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportEventArgs::Enemy&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportEventArgs::RequireSupportEventArgs&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportEventArgs::RequireSupportEventArgs::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportHandler&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportHandler::Invoke&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::RequireSupportHandler::Invoke::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier&quot; -  (Class)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::accuracy&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::aimedShot&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::aimedShot::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Attack&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Attack::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::inspiration&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Inspire&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::ReloadCrioAmmo&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::ReloadShields‎&lt;T‎&gt;&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::ReloadShields‎&lt;T‎&gt;::Ally&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::RequireSupportEvent&quot; -  (Property)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::RequireSupportOn&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::RequireSupportOn::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Soldier&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Soldier::health&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Soldier::name&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Soldier::shield&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::static Soldier&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::SupportAction&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::SupportAction::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Talk&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::Threaten&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::ThrowGranade&quot; -  (Operation)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::Lab2_OOP::Soldier::ThrowGranade::enemy&quot; -  (Parameter)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System&quot; -  (Package)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Double&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject1::System::Exception&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;T&quot; -  (UndefinedType)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Medic в ModelingProject1::Lab2_OOP::Adept (Generalization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::MyException в ModelingProject1::System::Exception (Generalization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::RequireSupportEventArgs в ModelingProject1::Lab2_OOP::Hero (Association)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Soldier в ModelingProject1::Lab2_OOP::IHardAmmo (InterfaceRealization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Soldier в ModelingProject1::Lab2_OOP::ISpeech (InterfaceRealization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Soldier в ModelingProject1::Lab2_OOP::Hero (Generalization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Adept в ModelingProject1::Lab2_OOP::ISpeech (InterfaceRealization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Adept в ModelingProject1::Lab2_OOP::Hero (Generalization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Engineer в ModelingProject1::Lab2_OOP::IHardAmmo (InterfaceRealization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject1::Lab2_OOP::Engineer в ModelingProject1::Lab2_OOP::Hero (Generalization)" />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="High" Text="Полностью реконструировано (11) типов." />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="High" Text="Частично реконструировано (2) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2016-11-19T09:50:51" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>

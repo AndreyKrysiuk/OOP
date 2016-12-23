@@ -1,0 +1,6 @@
+D:\second course\OOP\Lab1_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.exe.config
+D:\second course\OOP\Lab1_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.exe
+D:\second course\OOP\Lab1_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.pdb
+D:\second course\OOP\Lab1_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.csprojResolveAssemblyReference.cache
+D:\second course\OOP\Lab1_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.exe
+D:\second course\OOP\Lab1_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.pdb
