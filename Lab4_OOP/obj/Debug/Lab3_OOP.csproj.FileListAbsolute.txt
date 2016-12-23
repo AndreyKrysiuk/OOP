@@ -1,0 +1,11 @@
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\obj\Debug\Lab3_OOP.csprojResolveAssemblyReference.cache
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.exe.config
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.exe
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.pdb
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.exe
+D:\second course\OOP\Lab3_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.pdb
+D:\second course\OOP\Lab4_OOP\bin\Debug\Lab1_OOP.exe.config
+D:\second course\OOP\Lab4_OOP\obj\Debug\Lab1_OOP.exe
+D:\second course\OOP\Lab4_OOP\obj\Debug\Lab1_OOP.pdb
